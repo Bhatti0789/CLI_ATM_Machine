@@ -1,5 +1,5 @@
 {
-  "name": "cli_atm_machine",
+  "name": "abdullah_atm_machine",
   "version": "1.0.0",
   "description": "Command Line Interface of ATM Machine",
   "main": "index.js",
